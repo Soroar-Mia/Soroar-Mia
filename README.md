@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Soroar-Mia
+# Hi 👋, I'm Soroar Mia
+
+## A passionate full stack developer And Aspiring Software Engineer
+- Django
+- React
+### 💬 Ask me about
+A skilled critical thinker and problem solver, passionate about developing innovative solutions to complex technical challenges, wants to secure a responsible position in the software development and programming industry.
+
 - 👀 I’m interested in regularly keeping myself updated about the new skills. This means I always ensure my skills are kept up to date within this rapidly          changing industry.
 - 🌱 I'm currently learning JavaScript since it's a powerful language. What I understand is you can use it for the backend and frontend. I've learning  C++ 
       for a long time.
@@ -17,11 +24,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
-# Hi 👋, I'm Soroar Mia
-
-## A passionate full stack developer And Aspiring Software Engineer
 
 ### 🔭 I’m currently working on
 - **Mughal Restaurant**: [Live Project](https://funny-basbousa-06e58d.netlify.app)
@@ -59,9 +61,6 @@ I think I am funny.
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
